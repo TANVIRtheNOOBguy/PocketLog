@@ -1,0 +1,116 @@
+{
+  "classDiaryData": {
+    "11-10-26 (Sunday)": [
+      { "subj": "Orthopaedic and Rheumatology", "diary": "Fracture", "link": "" },
+      { "subj": "PT in orthopaedic", "diary": "Basic", "link": "" }
+    ],
+    "12-10-26 (Monday)": [
+      { "subj": "Orthopaedic and Rheumatology", "diary": "Fracture", "link": "" },
+      { "subj": "Therapeutic exercise II", "diary": "Introduction", "link": "" },
+      { "subj": "Electrotherapy and Hydrotherapy", "diary": "Module", "link": "" }
+    ],
+    "13-10-26 (Tuesday)": [
+      { "subj": "Orthopaedic and Rheumatology", "diary": "Fracture (Finish)", "link": "" },
+      { "subj": "Biomechanics", "diary": "Biomechanics, Kinetics & Kinematics", "link": "" }
+    ],
+    "14-10-26 (Wednesday)": [
+      { "subj": "Paediatrics", "diary": "Introduction", "link": "" },
+      { "subj": "PT in orthopaedic", "diary": "Common orthopedic surgical procedure - Arthroplasty - Arthrodesis", "link": "" }
+    ],
+    "25-10-26 (Sunday)": [
+      { "subj": "Orthopaedic and Rheumatology", "diary": "X-ray in Orthopedics", "link": "" },
+      { "subj": "PT in orthopaedic", "diary": "Fracture", "link": "" },
+      { "subj": "Anatomy II", "diary": "4th", "link": "" }
+    ],
+    "26-10-26 (Monday)": [
+      { "subj": "Therapeutic exercise II", "diary": "Joint mobilization & Arthrokinematics", "link": "" },
+      { "subj": "Pathology and microbiology", "diary": "Leprosy", "link": "" },
+      { "subj": "PT in orthopaedic", "diary": "Peripheral Nerves", "link": "" }
+    ],
+    "27-10-26 (Tuesday)": [
+      { "subj": "Electrotherapy and Hydrotherapy", "diary": "Compression", "link": "" },
+      { "subj": "Biomechanics", "diary": "Introduction Biomechanics", "link": "" },
+      { "subj": "Anatomy II", "diary": "Tissue", "link": "" }
+    ],
+    "28-10-26 (Wednesday)": [
+      { "subj": "Paediatrics", "diary": "Fetal development", "link": "" },
+      { "subj": "Radiology and imaging", "diary": "Basic Radio & Imaging", "link": "" },
+      { "subj": "PT in orthopaedic", "diary": "Osteotomy & Laminectomy", "link": "" },
+      { "subj": "Physiology II", "diary": "Structure & Function of Skeletal Muscle", "link": "" }
+    ],
+    "29-10-26 (Thursday)": [
+      { "subj": "Therapeutic exercise II", "diary": "Anatomy of Spinal Cord", "link": "" }
+    ],
+    "31-10-26 (Saturday)": [
+      { "subj": "Pathology and microbiology", "diary": "Inflammation", "link": "" },
+      { "subj": "Orthopaedic and Rheumatology", "diary": "Fracture Mx", "link": "" }
+    ],
+    "01-11-26 (Sunday)": [
+      { "subj": "Electrotherapy and Hydrotherapy", "diary": "MWD", "link": "" },
+      { "subj": "Biomechanics", "diary": "Concave-convex rule", "link": "" },
+      { "subj": "Anatomy II", "diary": "Tissue", link: "" }
+    ],
+    "02-11-26 (Monday)": [
+      { "subj": "Orthopaedic and Rheumatology", "diary": "Fracture Mx", "link": "" },
+      { "subj": "Physiology II", "diary": "Structure & function of skeletal muscle", "link": "" },
+      { "subj": "Pathology and microbiology", "diary": "Wound healing", "link": "" },
+      { "subj": "PT in orthopaedic", "diary": "Forearm fracture", "link": "" }
+    ],
+    "03-11-26 (Tuesday)": [
+      { "subj": "Electrotherapy and Hydrotherapy", "diary": "Compression", "link": "" },
+      { "subj": "Physiology II", "diary": "Test function for cerebellum", "link": "" }
+    ],
+    "04-11-26 (Wednesday)": [
+      { "subj": "Orthopaedic and Rheumatology", "diary": "Introduction of Ortho & Rheu", "link": "" },
+      { "subj": "Paediatrics", "diary": "2nd week & 3rd week of fetal development • Fetal circulation", "link": "" },
+      { "subj": "Radiology and imaging", "diary": "Plane for imaging", "link": "" },
+      { "subj": "Physiology II", "diary": "Superficial cutaneous reflex", "link": "" }
+    ],
+    "08-11-26 (Sunday)": [
+      { "subj": "Clinical practice (Wali sir)", diary: "Hip, Ankle, Patella", "link": "" },
+      { "subj": "PT in orthopaedic", diary: "H.W: Dermatome, Myotome", "link": "" }
+    ],
+    "09-11-26 (Monday)": [
+      { "subj": "Biomechanics", "diary": "Wolff's Law & Practical", "link": "" },
+      { "subj": "Pathology and microbiology", "diary": "Deficiency disease", "link": "" },
+      { "subj": "Therapeutic exercise II", "diary": "Exercise volume & Exercise fatigue", "link": "" }
+    ],
+    "10-11-26 (Tuesday)": [
+      { "subj": "Electrotherapy and Hydrotherapy", "diary": "Compression", "link": "" }
+    ],
+    "11-11-26 (Wednesday)": [
+      { "subj": "Therapeutic exercise II (Mam)", diary: "Practical: Dermatome, ASIA scale", "link": "" }
+    ],
+    "15-11-26 (Sunday)": [
+      { "subj": "Orthopaedic and Rheumatology", diary: "Amputation", "link": "" },
+      { "subj": "Therapeutic exercise II", diary: "Spinal cord injury assessment & spinal cord injury", "link": "" },
+      { "subj": "Anatomy II", "diary": "Tissue", "link": "" }
+    ]
+  },
+  "noticesData": [
+    {
+      "date": "22.10.26",
+      "title": "PT in orthopaedic CT (Written)",
+      "details": "22.10.26 তারিখে PT in orthopaedic CT written পরীক্ষা অনুষ্ঠিত হবে।"
+    },
+    {
+      "date": "25.10.26",
+      "title": "Pathology and microbiology Practical Viva",
+      "details": "সকাল ৯:৩০ মিনিটে ল্যাবে উপস্থিত থাকতে হবে।"
+    }
+  ],
+  "notesData": [
+    {
+      "subject": "Anatomy II",
+      "title": "Full Lecture & Diagram PDF",
+      "credit": "Shared by: Saimun",
+      "link": "https://drive.google.com"
+    },
+    {
+      "subject": "PT in orthopaedic",
+      "title": "Joint Structure & ROM Handnote",
+      "credit": "Shared by: Alif",
+      "link": "https://drive.google.com"
+    }
+  ]
+}
